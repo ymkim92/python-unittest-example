@@ -1,13 +1,10 @@
 # Python-Unittest-Example
 
+```
+$ python -m unittest
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
 
-**Step:**
-
-1. install package nose and mock by command
-```
-pip install -r requirements.txt
-```
-2. run test by command    
-```
-nosetest tests
+OK
 ```
